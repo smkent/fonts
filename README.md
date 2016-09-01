@@ -9,5 +9,5 @@ which are not included here.
 
 ## Font Directories
 
-* [google](/google): [Google Fonts](https://www.google.com/fonts) which are
-[open source](https://www.google.com/fonts#AboutPlace:about).
+* [google](/google): [Google Fonts](https://fonts.google.com/) which are
+[open source](https://fonts.google.com/about).
